@@ -37,6 +37,8 @@ I'm a full-stack web developer with a background in game QA. Although I'm curren
 ## Stats
 ![Lauren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lauren245&show_icons=true&theme=radical)
 
+![Real-Time Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lauren245&theme=radical)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Lauren245&label=Profile%20Views&color=blue&style=flat)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
