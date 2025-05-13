@@ -1,5 +1,5 @@
 # Hi there, I'm Lauren 👋
-
+![Visitor Count](https://komarev.com/ghpvc/?username=Lauren245&label=Profile%20Views&color=blue&style=flat)
 <!--
 **Lauren245/Lauren245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,7 +38,3 @@ I'm a full-stack web developer with a background in game QA. Although I'm curren
 ![Real-Time Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lauren245&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lauren245&theme=radical)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Lauren245&label=Profile%20Views&color=blue&style=flat)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
