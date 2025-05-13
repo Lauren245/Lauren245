@@ -39,4 +39,4 @@ I'm a full-stack web developer with a background in game QA. Although I'm curren
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Lauren245&label=Profile%20Views&color=blue&style=flat)
 
-![GIF](https://media.giphy.com/media/YOUR-GIF-ID/giphy.gif)
+![Jokes Card](https://readme-jokes.vercel.app/api)
