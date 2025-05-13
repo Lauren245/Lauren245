@@ -32,4 +32,4 @@ I'm a full-stack web developer with a background in game QA. Although I'm curren
   
 - 😄 Pronouns are she/her
   
--⚡Fun fact: I love performing in local musical theatre productions!
+- ⚡Fun fact: I love performing in local musical theatre productions!
