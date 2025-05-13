@@ -35,9 +35,9 @@ I'm a full-stack web developer with a background in game QA. Although I'm curren
 - ⚡Fun fact: I love performing in local musical theatre productions!
 
 ## Stats
-![Lauren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lauren245&show_icons=true&theme=radical)
-
 ![Real-Time Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lauren245&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lauren245&theme=radical)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Lauren245&label=Profile%20Views&color=blue&style=flat)
 
