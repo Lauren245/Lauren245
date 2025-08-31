@@ -24,8 +24,6 @@ I'm a full-stack web developer with a background in game QA. Although I'm curren
   
 - 👯 I’m looking to collaborate on any interesting side projects (Let's get in touch)!
   
-- 🤔 I’m looking for help with finding a job. I've been looking at junior web dev and software engineer positions and coding bootcamp TA positions. **[Here is a link to my resume](https://lauren-moores-portfolio.onrender.com/Resume)**
-  
 - 💬 Ask me about web development, programming, video games, and performing arts
   
 - 📫 How to reach me: Email me at laurenmoorejm@gmail.com or connect with me on **[LinkedIn](https://www.linkedin.com/in/lauren-j-m-m/)**
